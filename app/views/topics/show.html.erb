@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Question:</b>
+  <%= @topic.question %>
+</p>
+
+<p>
+  <b>Answer:</b>
+  <%= @topic.answer %>
+</p>
+
+<p>
+  <b>Contributors:</b>
+  <% @users = @topic.users.all %>
+  <% @users. each do |u| %>
+  <br />
+  <%= link_to u.email, user_path(u) %>
+  <% end %>
+</p>
+
+
+
+<%= link_to 'Edit', edit_topic_path(@topic) %> |
+<%= link_to 'Back', topics_path %>
