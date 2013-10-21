@@ -13,7 +13,7 @@
 <p>
   <b>Contributors:</b>
   <% @users = @topic.users.all %>
-  <% @users. each do |u| %>
+  <% @users.each do |u| %>
   <br />
   <%= link_to u.email, user_path(u) %>
   <% end %>
