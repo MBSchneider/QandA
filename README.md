@@ -15,15 +15,15 @@ By [Matt Schneider](https://github.com/MBSchneider).
 
 This application allows you to post a question, which may be answered by another user.  Multiple users may collaborate on any given question / answer item.
 
-![Screenshot 1](https://github.com/MBSchneider/QandA/blob/master/app/assets/images/Screen%20Shot%202013-10-20%20at%2011.02.16%20PM.png)
+![Screenshot 1](https://raw.github.com/MBSchneider/QandA/master/app/assets/images/Screen%20Shot%202013-10-20%20at%2011.02.16%20PM.png)
 
 From the index view, to see who has contributed to the item click on view and the contributors will be listed below the question.
 
-![Screenshot 2](https://github.com/MBSchneider/QandA/blob/master/app/assets/images/Screen%20Shot%202013-10-20%20at%2011.02.29%20PM.png)
+![Screenshot 2](https://raw.github.com/MBSchneider/QandA/master/app/assets/images/Screen%20Shot%202013-10-20%20at%2011.02.29%20PM.png)
 
  In this view, you may also click on a specific user to see all of the items he or she has contributed to.
 
-![Screenshot 3](https://github.com/MBSchneider/QandA/blob/master/app/assets/images/Screen%20Shot%202013-10-20%20at%2011.02.37%20PM.png)
+![Screenshot 3](https://raw.github.com/MBSchneider/QandA/master/app/assets/images/Screen%20Shot%202013-10-20%20at%2011.02.37%20PM.png)
 
 
 ## Authors
