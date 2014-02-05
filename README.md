@@ -13,7 +13,9 @@ By [Matt Schneider](https://github.com/MBSchneider).
 
 ## Usage
 
-This application allows you to post a question, which may be answered by another user.  Multiple users may collaborate on any given question / answer item.
+This application was created to play around with has_and_belongs_to_many rails associations.  
+
+It allows a user to post a question, which may be answered by another user.  Multiple users may collaborate on any given question / answer item.
 
 ![Screenshot 1](https://raw.github.com/MBSchneider/QandA/master/app/assets/images/Screen%20Shot%202013-10-20%20at%2011.02.16%20PM.png)
 
